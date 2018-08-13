@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\client.o
+./debug\server.o
+./debug\accelerometerhandler.o
+./debug\accelerometerwindow.o
+./debug\qcustomplot.o
+./debug\commands.o
+./debug\moc_mainwindow.o
+./debug\moc_client.o
+./debug\moc_accelerometerhandler.o
+./debug\moc_accelerometerwindow.o
+./debug\moc_qcustomplot.o
+./debug\moc_commands.o
+);
